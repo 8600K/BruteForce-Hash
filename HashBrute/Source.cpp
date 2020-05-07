@@ -3,7 +3,7 @@
 *
 *
 Program Created by Miles Engelbrecht.
-**NOTE** 
+**NOTE**  
 This program is not intended for malicious use.
 This is a project that I made to further my own knowledge of threading, hash codes, and brute force techniques.
 For best performance, I recommend setting the project in Release.
@@ -11,6 +11,7 @@ And please Note that only x64 works at this time.  (x32 can work with the proper
 Also, if you want the output screen to be cleaner, comment out all the couts within the functions.  I kept them there for testing purposes.
 
 ...Plus it's also kind of satisfying to see all the threads working.  
+*
 *
 *
 *
